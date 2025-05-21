@@ -181,3 +181,19 @@ SHA256: 5de0d168a546d8cec103ce03976da88e51bde21a8a68b58380bdc61b7c115c73
 Name: Saudi.bold.1.0.arm64e.deb
 Author: medo
 
+Package: bhtiktokplus
+Version: 2.3.1
+Architecture: iphoneos-arm64e
+Maintainer: Mgccd
+Description: bhtiktokplus package for iOS
+Section: Tweaks
+Depends: Hhhfd
+Filename: ./debs/bhtiktokplus_2.3.1_iphoneos-arm64e.deb
+Size: 17612
+Installed-Size: 17
+MD5sum: ce4d35ba331d4b7a45d1cc87e58a0788
+SHA1: 4dd8f157f54da85b037d0f1adf9dfba31fadeb8f
+SHA256: ca11e7db274684e99e75b1d299aff2dd0698d8071ed0d823fa280b2175c4dc80
+Name: bhtiktokplus
+Author: Medo
+
